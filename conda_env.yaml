@@ -1,0 +1,3 @@
+name: qc-cirq
+dependencies:
+  - python>=3.10,<3.11

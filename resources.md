@@ -1,0 +1,3 @@
+- [Educators intro](https://quantumai.google/cirq/tutorials/educators/intro)
+- [Tutorials basic](https://quantumai.google/cirq/tutorials)
+- [Tutorial basic](https://quantumai.google/cirq/tutorials/basics)
